@@ -1,0 +1,4 @@
+[
+    {"mnemonic": "word1 word2 ... word12", "domain_address": "0x6c44"},
+    {"mnemonic": "word3 word4 ... word14", "domain_address": "0xabcd"}
+]
